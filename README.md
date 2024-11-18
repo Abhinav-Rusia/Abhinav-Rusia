@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abhinav-Rusia
 - 👀 I’m learning Web Development
-- 🌱 I’m currently MERN
+- 🌱 I’m currently learning MERN Stack
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me Insta: abhi_r09
 
