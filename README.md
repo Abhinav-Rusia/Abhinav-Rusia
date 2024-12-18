@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Abhinav-Rusia
-- 🌱 I’m currently learning MERN Stack
+- 🌱 MERN Stack developer 
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me Insta: abhi_r09
 
