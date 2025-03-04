@@ -30,9 +30,9 @@ _ 🔗 [RESTful API](https://github.com/Abhinav-Rusia/RESTful-API-.git) - A REST
 ![GitHub Contribution](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 ---
-
 ### 🌍 Connect With Me:
-[![LinkedIn](https://www.linkedin.com/in/devabhinavrusia/)
-[![Twitter](https://x.com/DevAbhi_R)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devabhinavrusia/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/DevAbhi_R)
+
 
 
