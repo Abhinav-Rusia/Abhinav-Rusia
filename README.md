@@ -5,6 +5,16 @@
 
 ---
 
+### 👨‍💻 About Me:
+🔹 Passionate **Full Stack Developer** always exploring new tech.  
+🔹 Love working with **JavaScript, React, Node.js, and GSAP**.  
+🔹 Building awesome web experiences & **making UIs come alive** with animations.  
+🔹 Learning **backend technologies** and improving **database management**.
+
+💡 **"Code is like humor. If you have to explain it, it’s bad."** – Cory House  
+
+---
+
 ### 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
