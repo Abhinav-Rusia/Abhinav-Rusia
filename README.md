@@ -1,6 +1,6 @@
 ### Hey there! I'm Abhinav Rusia 👋
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=Hi!+I'm+Your+Name!;A+Passionate+Frontend+Developer;GSAP+Lover;Always+Exploring+New+Tech+🚀)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=Hi!+I'm+Abhinav!;A+Passionate+Developer;Always+Exploring+New+Tech+🚀)
 
 ---
 
