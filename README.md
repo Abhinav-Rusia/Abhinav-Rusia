@@ -23,16 +23,6 @@ _ 🔗 [RESTful API](https://github.com/Abhinav-Rusia/RESTful-API-.git) - A REST
 - 🎨 [Feastify Crave Corner](https://github.com/Abhinav-Rusia/Feastify-Js-GSAP-website.git) - A stunning restaurant food delivery website.
 - 🤖 [Chef Claude](https://github.com/Abhinav-Rusia/Chef-claude-ReactApp.git) - A React-powered AI recipe generator.
 
----
-
-### 📊 GitHub Stats:
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
-
----
-
-### 🎯 GitHub Streak:
-![GitHub Streak](https://streak-stats.demolab.com?user=your-username&theme=radical&hide_border=true)
 
 ---
 
@@ -45,6 +35,4 @@ _ 🔗 [RESTful API](https://github.com/Abhinav-Rusia/RESTful-API-.git) - A REST
 [![LinkedIn](https://www.linkedin.com/in/devabhinavrusia/)
 [![Twitter](https://x.com/DevAbhi_R)
 
----
 
-![Visitor Count](https://komarev.com/ghpvc/?username=your-username&color=blue&style=flat-square)
