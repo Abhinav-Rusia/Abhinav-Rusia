@@ -7,7 +7,7 @@
 
 ### 👨‍💻 About Me:
 🔹 Passionate **Full Stack Developer** always exploring new tech.  
-🔹 Love working with **JavaScript, React, Node.js, and GSAP**.  
+🔹 Love working with **JavaScript, React, MongoDB , and Express**.  
 🔹 Building awesome web experiences & **making UIs come alive** with animations.  
 🔹 Learning **backend technologies** and improving **database management**.
 
